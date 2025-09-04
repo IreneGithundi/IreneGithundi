@@ -16,7 +16,7 @@ I'm currently working on small projects to practice what I'm learning.
 Stay tuned! Soon I’ll share them.
 
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=IreneGithundi&show_icons=true&theme=radical
+![Irene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IreneGithundi&show_icons=true&theme=radical)
 
 ## 🌐 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/irene-githundi/
