@@ -16,7 +16,10 @@ I'm currently working on small projects to practice what I'm learning.
 Stay tuned! Soon I’ll share them.
 
 ## 📊 GitHub Stats
-![Irene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IreneGithundi&show_icons=true&theme=radical)
+![IreneGithundi's Stats](https://github-readme-stats.vercel.app/api?username=IreneGithundi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![IreneGithundi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IreneGithundi&theme=tokyonight&hide_border=true)
+
+![IreneGithundi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IreneGithundi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 🌐 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/irene-githundi/
